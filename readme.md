@@ -191,6 +191,12 @@
 
 ---
 
+# 7 - Algorithm
+
+## Algoritma pratikleri sistemli oluşturulacak
+
+---
+
 # Önemli!!!
 
 •⁠  ⁠notes.md dosyasında detaylı konular için notlar

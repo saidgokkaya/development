@@ -125,6 +125,9 @@
 * ⁠Builder
 * ⁠Strategy
 * ⁠CQRS
+* DDD (DOMAIN DRIVEN DESIGN)
+* AGİLE
+* SCRUM
 * ⁠Mediator
 
 ## SOLID

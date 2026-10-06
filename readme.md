@@ -125,9 +125,6 @@
 * ⁠Builder
 * ⁠Strategy
 * ⁠CQRS
-* DDD (DOMAIN DRIVEN DESIGN)
-* AGİLE
-* SCRUM
 * ⁠Mediator
 
 ## SOLID
@@ -194,7 +191,15 @@
 
 ---
 
-# 7 - Algorithm
+# 7 - Principles
+
+* DDD (DOMAIN DRIVEN DESIGN)
+* Agile
+* Scrum
+
+---
+
+# 8 - Algorithm
 
 * Algoritma pratikleri sistemli oluşturulacak
 
